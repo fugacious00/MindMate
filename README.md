@@ -2,7 +2,7 @@
 
 > **Making mental health support accessible, affordable, and beautiful for everyone**
 
-![MindMate Logo](0-%20MindMate%20Logo.png)
+
 
 ## 📋 Repository Overview
 
@@ -12,7 +12,7 @@ MindMate is a comprehensive mental health companion ecosystem consisting of:
 
 This repository contains both projects with complete source code, documentation, and deployment guides.
 
-![MindMate Mascot](Screenshot%202026-01-10%20204839.png)
+
 
 ## 🎯 Mission
 
@@ -93,7 +93,6 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5173`
 
 ### Starting the Website
 
@@ -103,7 +102,6 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5174` (or next available port)
 
 ## 📱 App - MindMate Application
 
@@ -488,7 +486,6 @@ All code is open-source and free to use, modify, and distribute.
 
 ### Getting Help
 - 📧 **Email**: support@mindmate.app
-- 💬 **Discord**: [Join our community](#)
 - 🐛 **Issues**: GitHub Issues
 - 📖 **Discussions**: GitHub Discussions
 - 🐦 **Twitter**: @MindMateApp
@@ -577,7 +574,7 @@ If you're experiencing a mental health crisis:
 
 **MindMate: Where mental health meets technology**
 
-[Website](https://mindmate.app) • [App](https://app.mindmate.app) • [Documentation](./README-APP.md) • [Issues](https://github.com/mindmate/mindmate/issues)
+[Website]() • [App]() • [Documentation](./README-APP.md) • [Issues](https://github.com/mindmate/mindmate/issues)
 
 </div>
 
