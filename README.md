@@ -23,6 +23,9 @@ MindMate is a comprehensive **mental wellness platform** that empowers you to ta
 
 
 
+<img width="2720" height="2320" alt="mindmate_features_perfect" src="https://github.com/user-attachments/assets/d56390bf-6a9e-499a-b27d-0cce46139e2a" />
+
+
 
 ## 🚀 Quick Start
 
@@ -104,10 +107,6 @@ mindmate/
 | CBT exercises | Settings |
 | AI chat (TheraBot) | Resources hub |
 | Dark mode | Responsive design |
-
-
-
-<img width="2720" height="2320" alt="mindmate_features_perfect" src="https://github.com/user-attachments/assets/dee53333-1386-4905-af6e-c0943ecc453d" />
 
 
 
