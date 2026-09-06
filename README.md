@@ -4,7 +4,7 @@
 
 > **Making mental health support accessible, affordable, and beautiful for everyone**
 
----
+
 
 ## 🎯 What is MindMate?
 
@@ -20,12 +20,6 @@ MindMate is a comprehensive **mental wellness platform** that empowers you to ta
 - 🤖 **AI Companion** - 24/7 TheraBot for mental health support
 - 🔒 **100% Private** - All data stored locally, zero cloud sync
 - 📱 **Offline First** - Works without internet connection
-
----
-
-
-
-<img width="2720" height="2320" alt="mindmate_features_perfect" src="https://github.com/user-attachments/assets/5e25458c-9b1f-4225-97c9-4c4698ad07d8" />
 
 
 
@@ -54,7 +48,7 @@ npm install
 npm run dev
 ```
 
----
+
 
 ## 🎨 Project Structure
 
@@ -66,7 +60,6 @@ mindmate/
 
 ```
 
----
 
 ## 💻 Tech Stack
 
@@ -77,8 +70,6 @@ mindmate/
 | **Storage** | Dexie.js (IndexedDB) |
 | **AI** | Google Gemini |
 | **Build** | Vite |
-
----
 
 
 
@@ -94,7 +85,6 @@ mindmate/
 ✅ **Open Source** - Transparent, community-driven  
 ✅ **GDPR Compliant** - Your rights protected  
 
----
 
 
 
@@ -115,7 +105,11 @@ mindmate/
 | AI chat (TheraBot) | Resources hub |
 | Dark mode | Responsive design |
 
----
+
+
+<img width="2720" height="2320" alt="mindmate_features_perfect" src="https://github.com/user-attachments/assets/dee53333-1386-4905-af6e-c0943ecc453d" />
+
+
 
 ## 🤝 Contributing
 
@@ -128,15 +122,8 @@ We welcome contributions!
 
 See `CONTRIBUTING.md` for guidelines.
 
----
 
-## 📚 Documentation
 
-- **[QUICK-START.md](./QUICK-START.md)** - Get running in 5 minutes
-- **[ARCHITECTURE.md](./docs/ARCHITECTURE.md)** - Technical design
-- **[DEPLOYMENT.md](./docs/DEPLOYMENT.md)** - Deploy to production
-
----
 
 ## ⚠️ Important Disclaimer
 
@@ -148,13 +135,13 @@ See `CONTRIBUTING.md` for guidelines.
 - 💬 **Crisis Text Line** - Text HOME to 741741
 - 🌍 **IASP Directory** - https://www.iasp.info/resources/Crisis_Centres/
 
----
+
 
 ## 📄 License
 
 MIT License - Open source and free to use
 
----
+
 
 ## 📞 Support
 
@@ -162,7 +149,7 @@ MIT License - Open source and free to use
 - 🐛 Issues: [GitHub Issues](https://github.com/mindmate/mindmate/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/mindmate/mindmate/discussions)
 
----
+
 
 <div align="center">
 
