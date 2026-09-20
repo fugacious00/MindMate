@@ -1,6 +1,8 @@
 # 🧠 MindMate - Your Mental Wellness Companion
 
 
+<img width="1200" height="180" alt="1_readme_header" src="https://github.com/user-attachments/assets/218996e8-4f0c-4211-8ee5-27f814cf1310" />
+
 
 > **Making mental health support accessible, affordable, and beautiful for everyone**
 
@@ -12,6 +14,13 @@ MindMate is a comprehensive **mental wellness platform** that empowers you to ta
 
 ### ✨ Core Features
 
+
+
+<img width="936" height="152" alt="Screenshot 2026-09-13 151243" src="https://github.com/user-attachments/assets/6c1ddac9-8e71-41d4-8c06-dccf2b5e5e33" />
+
+
+
+
 - 📊 **Mood Tracking** - Track emotional patterns and identify triggers
 - 📔 **Private Journaling** - Write and reflect on your thoughts securely
 - 😴 **Sleep Monitoring** - Track sleep quality and patterns
@@ -20,11 +29,6 @@ MindMate is a comprehensive **mental wellness platform** that empowers you to ta
 - 🤖 **AI Companion** - 24/7 TheraBot for mental health support
 - 🔒 **100% Private** - All data stored locally, zero cloud sync
 - 📱 **Offline First** - Works without internet connection
-
-
-
-<img width="2720" height="2320" alt="mindmate_features_perfect" src="https://github.com/user-attachments/assets/d56390bf-6a9e-499a-b27d-0cce46139e2a" />
-
 
 
 ## 🚀 Quick Start
@@ -66,6 +70,7 @@ mindmate/
 
 ## 💻 Tech Stack
 
+
 | Component | Technology |
 |-----------|-----------|
 | **UI** | React 19, TypeScript |
@@ -76,23 +81,14 @@ mindmate/
 
 
 
-<img width="2720" height="1680" alt="mindmate_tech_stack" src="https://github.com/user-attachments/assets/be7aa61c-dc02-4b55-977d-581cfa969453" />
-
-
-
 ## 🔐 Privacy & Security
+
 
 ✅ **100% Local Storage** - Your data stays on your device  
 ✅ **No Cloud Sync** - Nothing is sent to servers  
 ✅ **Encrypted** - End-to-end encryption  
 ✅ **Open Source** - Transparent, community-driven  
 ✅ **GDPR Compliant** - Your rights protected  
-
-
-
-
-<img width="2720" height="1680" alt="mindmate_privacy_security" src="https://github.com/user-attachments/assets/513ac463-3e88-4829-a8fd-9cf8a4faa37a" />
-
 
 
 
@@ -152,7 +148,11 @@ MIT License - Open source and free to use
 
 <div align="center">
 
+
 **Made with ❤️ for mental wellness**
+
+<img width="1200" height="150" alt="5_cta_button" src="https://github.com/user-attachments/assets/37548462-fcc2-4b70-ac8a-cbc0707bcf78" />
+
 
 [Home](https://mindmate.app) • [Docs](./docs/) • [Issues](https://github.com/mindmate/mindmate/issues)
 
