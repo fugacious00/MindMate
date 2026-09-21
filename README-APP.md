@@ -1,36 +1,50 @@
 # 📱 MindMate App
 
 
+<img width="1200" height="180" alt="1_readme_header" src="https://github.com/user-attachments/assets/2e55620c-cd66-4046-855c-47c24269c4f9" />
 
-Your personal mental wellness companion. Track moods, journal thoughts, build habits, and get 24/7 AI support.
 
----
+
+MindMate App is designed to be a comprehensive mental wellness platform that runs entirely on the client-side with no data sent to servers. Users can:
+
+- Track daily moods and emotional patterns
+- Write and store private journal entries
+- Monitor sleep habits and patterns
+- Build and maintain positive habits
+- Practice cognitive behavioral therapy (CBT) exercises
+- Chat with an AI-powered mental health assistant (TheraBot)
+- Access all features completely offline
+
 
 ## ✨ Features at a Glance
 
-### 📊 Mood Tracking
-Track your emotional patterns and identify what affects your mood.
 
-### 📔 Journaling
-Private, encrypted space for your thoughts and reflections.
-
-### 😴 Sleep Tracking
-Monitor sleep patterns and correlate with mood.
-
-### 🎯 Habit Building
-Build positive habits with visual streak counters.
-
-### 🧠 CBT Exercises
-Guided cognitive behavioral therapy techniques.
-
-### 🤖 AI Companion (TheraBot)
-24/7 mental health support powered by AI.
-
----
+<img width="874" height="279" alt="image" src="https://github.com/user-attachments/assets/a6db48fc-5796-4164-bed8-38ab6e0d04a1" />
 
 
+### - Mood Tracking
+Track your emotional patterns with a simple 5-point scale. Identify what affects your mood and understand your emotional journey.
 
-<img width="2760" height="2840" alt="mindmate_dashboard_interface" src="https://github.com/user-attachments/assets/7d2ab8bf-489b-4cd3-a9e5-4ddea3cbf356" />
+### - Journaling
+Private, encrypted space for your thoughts and reflections. Write freely knowing your data stays secure.
+
+### - Sleep Tracking
+Monitor sleep patterns and correlate with mood. Understand how rest affects your wellbeing.
+
+### - Habit Building
+Build positive habits with visual streak counters. Stay motivated with your progress.
+
+### - CBT Exercises
+Guided cognitive behavioral therapy techniques right in your app.
+
+### - AI Companion (TheraBot)
+24/7 access to AI-powered mental health support
+Conversational support and coping strategies
+
+
+
+<img width="889" height="347" alt="image" src="https://github.com/user-attachments/assets/3df2e465-5489-4ac5-92d9-e3b6f3995511" />
+
 
 
 
@@ -58,7 +72,6 @@ npm run build
 - ✅ Offline mode - works without internet
 - ✅ No tracking - complete privacy
 
----
 
 ## 💻 Built With
 
@@ -69,7 +82,6 @@ npm run build
 - **Google Gemini** - AI capabilities
 - **Vite** - Lightning-fast builds
 
----
 
 ## 📊 Core Data Types
 
@@ -81,20 +93,7 @@ npm run build
 
 All stored locally in your browser.
 
----
 
-## 🛠️ Development
-
-### Available Commands
-
-```bash
-npm run dev          # Start development server
-npm run build        # Production build
-npm run preview      # Preview production build
-npm run type-check   # TypeScript validation
-npm run lint         # Code quality check
-npm run test         # Run tests
-```
 
 ### Project Structure
 
@@ -107,7 +106,7 @@ src/
 └── utils/          # Helper functions
 ```
 
----
+
 
 ## 📱 Browser Support
 
@@ -117,134 +116,10 @@ src/
 ✅ Edge 90+  
 ✅ Mobile browsers  
 
----
 
-## 🔄 State Management
 
-Uses React Hooks for:
-- Component state
-- Context API for global state
-- Custom hooks for logic reuse
 
----
 
-## 💾 Data Storage
-
-**IndexedDB (Dexie.js)** for persistent local storage:
-- Mood entries
-- Journal entries
-- Sleep records
-- Habits & completions
-- Chat history
-- User preferences
-
-**Encryption** for sensitive data at rest.
-
----
-
-## 🌙 Features
-
-- **Dark Mode** - Easy on the eyes
-- **Responsive** - Works on any device
-- **Accessible** - WCAG 2.1 compliant
-- **Fast** - Optimized performance
-- **Offline** - Full functionality without internet
-
----
-
-## 🤖 AI Features
-
-**TheraBot** provides:
-- Emotional support and validation
-- Coping strategies
-- Mental health education
-- Personalized suggestions
-- Thought analysis
-
-Configure with your Gemini API key in `.env.local`
-
----
-
-## 📈 Analytics & Insights
-
-- Mood trends (7, 30, 90 day)
-- Sleep patterns
-- Habit completion rates
-- Mood correlations with activities
-- Personal insights
-
-All calculated locally.
-
----
-
-## 🧪 Testing
-
-```bash
-npm run test         # Run test suite
-npm run test:watch   # Watch mode
-npm run test:coverage # Coverage report
-```
-
----
-
-## 🐛 Troubleshooting
-
-**Port in use?**
-```bash
-npm run dev -- --port 3000
-```
-
-**Cache issues?**
-```bash
-rm -rf node_modules dist
-npm install
-npm run build
-```
-
-**Data not persisting?**
-- Check browser IndexedDB in DevTools
-- Disable private/incognito mode
-- Clear browser cache
-
----
-
-## 📖 Documentation
-
-- **[QUICK-START.md](./QUICK-START.md)** - 5-minute setup
-- **[ARCHITECTURE.md](./docs/ARCHITECTURE.md)** - System design
-- **[DEPLOYMENT.md](./docs/DEPLOYMENT.md)** - Production guide
-
----
-
-## 🔐 Security Best Practices
-
-- TypeScript strict mode enabled
-- Input validation on all forms
-- XSS prevention measures
-- CSRF protection
-- Secure localStorage usage
-- No hardcoded secrets
-
----
-
-## 📊 Performance
-
-- **Bundle size** < 300KB (gzipped)
-- **First paint** < 1.5s
-- **Lighthouse score** 90+
-- **Core Web Vitals** all green
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit pull request
-
----
 
 ## ⚠️ Disclaimer
 
@@ -252,13 +127,9 @@ MindMate is a wellness companion, not a substitute for professional mental healt
 
 **In crisis?** Call/text **988** immediately.
 
----
 
-## 📄 License
 
-MIT License - Free to use and modify
 
----
 
 ## 📞 Support
 
@@ -266,11 +137,15 @@ MIT License - Free to use and modify
 - 🐛 [GitHub Issues](https://github.com/mindmate/mindmate/issues)
 - 💬 [GitHub Discussions](https://github.com/mindmate/mindmate/discussions)
 
----
+
 
 <div align="center">
 
 **Built with ❤️ for your mental wellness**
+
+
+<img width="881" height="242" alt="image" src="https://github.com/user-attachments/assets/7a55345f-66ff-40ef-8ebd-4a2ab97b623f" />
+
 
 [Home](https://mindmate.app) • [Docs](./docs/) • [Issues](https://github.com/mindmate/mindmate/issues)
 
